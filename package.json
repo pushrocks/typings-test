@@ -1,9 +1,9 @@
 {
   "name": "typings-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "all typings needed for common testing files (mocha should etc.)",
   "main": "index.js",
-  "typings":"typings/custom.d.ts",
+  "typings": "typings/custom.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
